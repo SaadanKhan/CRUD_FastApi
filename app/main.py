@@ -4,6 +4,7 @@ from pydantic import BaseModel
 from typing import Optional
 from random import randrange
 
+# Cloning of the fastApi project
 
 app = FastAPI()
 
